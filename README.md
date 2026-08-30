@@ -2,13 +2,13 @@
 
 > **1st Prize Winner (Minister of Education Award)**  
 > **12th e-ICON World Contest (2022)**  
-> Description: *2022 e-ICON World Contest 1st prize*
+> *2022 e-ICON World Contest 1st prize*
 
 ---
 
 ## Important Links
 
-- **Download App (APK):** [Download on Google Drive](https://drive.google.com/file/d/1NHGVcTUFFpUDQMdbYl8fnd0MNH5Rt1J7/view?usp=sharing)
+- **Android App :** [Download APK](https://drive.google.com/file/d/1NHGVcTUFFpUDQMdbYl8fnd0MNH5Rt1J7/view?usp=sharing)
 - **Contest Information:** [12th e-ICON World Contest 1st Prize Official Announcement](https://e-icon.or.kr/en/2022%eb%85%84-%ec%a0%9c12%ed%9a%8c-%ea%b3%a0%eb%93%b1%eb%b6%80-1%eb%93%b1-%ea%b5%90%ec%9c%a1%eb%b6%80-%ec%9e%a5%ea%b4%80%ec%83%81/)
 
 ---
@@ -18,7 +18,6 @@
 **Until The EU** is an educational and mental wellness mobile application built using **Expo and React Native**. Developed by **Team Han-da** for the **12th e-ICON World Contest (2022)**, the app aims to help students recognize, evaluate, and manage their daily stress.
 
 ### Key Features
-- **Splash and Onboarding:** Smooth entrance animations powered by Lottie.
 - **Stress Diagnostic Quiz:** Interactive questionnaire assessing user stress and emotional well-being.
 - **Personalized Results:** Calculation of **StressScore** and categorized **StressLevel**.
 - **Tailored Solutions:** Curated multimedia resources, soothing sounds/audio guides, relaxation activities, and educational video sessions to help relieve stress.
